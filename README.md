@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6t9xstar&label=Profile%20views&color=0e75b6&style=flat" alt="6t9xstar" /> </p>
 
 
-- 🔭 I’m currently working on **B2B SaaS + Email Infrastructures**
+- 🔭 I’m currently working on **B2B SaaS + Email Infrastructure**
 
 - 🌱 I’m currently learning **penetration testing, threat analysis, and secure cloud infrastructure**
 
