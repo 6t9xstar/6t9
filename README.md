@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/6t9xstar/6t9?style=social)
+
 <h1 align="center">Hi 👋, I'm Malik Taimoor Awan</h1>
 <h3 align="center">Full-Stack AI Developer | Cybersecurity Expert</h3>
 
